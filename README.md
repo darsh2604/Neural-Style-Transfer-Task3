@@ -1,8 +1,3 @@
-# Neural-Style-Transfer-Task3
-CodTech Internship Task 3 - Neural Style Transfer using PyTorch
-
----
-
 # 🎨 Neural Style Transfer - CodTech Internship Task 3
 
 This project implements **Neural Style Transfer** using **PyTorch**, allowing a user to apply the artistic style of one image (e.g., Van Gogh’s *Starry Night*) onto another image (like a dog photo 🐶 wearing cool glasses).
